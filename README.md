@@ -3,6 +3,7 @@
  <p>This project is a simple challenge created by Rocketseat build with express, typescript, typeOrm, and React Js ...!</p>
 
  <img src="/assets/Dashboard.PNG" height="200" width="200">
+ <img src="/assets/Capturar.PNG" height="200" width="200">
 
 ## ✋🏻 Prerequisites
 
