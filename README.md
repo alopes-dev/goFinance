@@ -1,4 +1,4 @@
-# :tada: goFinance
+# :rocket: goFinance
 
  <p>This project is a simple challenge build with express, typescript, typeOrm, and React Js ...!</p>
 
