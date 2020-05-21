@@ -4,7 +4,7 @@
 
 ### List of all transactions
 
- <img src="/assets/Dashboard.PNG" height="200" width="200">
+ <img src="/assets/Dashboard.PNG" height="150" width="300">
 
 ### Import file and add transactions by csv file
 
