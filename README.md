@@ -1,11 +1,14 @@
 # :rocket: goFinance
 
- <p>This project is a simple challenge build with express, typescript, typeOrm, and React Js ...!</p>
+ <p>This project is a simple challenge created by Rocketseat build with express, typescript, typeOrm, and React Js ...!</p>
+
+ <img src="/assets/Dashboard.PNG" heigth="100" width="200">
 
 ## ✋🏻 Prerequisites
 
 - [Node.js](https://nodejs.org/en/)
 - [Postgresql](https://www.postgresql.org/download/)
+- [React Js](https://reactjs.org/docs/getting-started.html)
 - [Yarn](https://yarnpkg.com/pt-BR/docs/install)
 
 ## Installation
