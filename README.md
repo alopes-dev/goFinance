@@ -2,14 +2,16 @@
 
  <p>This project is a simple challenge created by Rocketseat build with express, typescript, typeOrm, and React Js ...!</p>
 
-### List of all transactions
+### List of all transactions and add transactions using csv file
 
- <img src="/assets/Dashboard.PNG" height="150" width="300">
-
-### Import file and add transactions by csv file
-
- <img src="/assets/Capturar.PNG" height="200" width="200">
-
+<div style="-webkit-column-count: 2; -moz-column-count: 2; column-count: 2; -webkit-column-rule: 1px dotted #e0e0e0; -moz-column-rule: 1px dotted #e0e0e0; column-rule: 1px dotted #e0e0e0;display:flex; justify-content:space-between">
+    <div>
+         <img src="/assets/Dashboard.PNG" height="200" width="400">
+    </div>
+    <div>
+          <img src="/assets/Capturar.PNG" height="200" width="400">
+    </div>
+</div>
 ## ✋🏻 Prerequisites
 
 - [Node.js](https://nodejs.org/en/)
